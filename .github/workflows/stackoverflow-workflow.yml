@@ -1,0 +1,17 @@
+name: Latest StackOverflow Contributions
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-stackoverflow:
+    name: Update this repo's README with latest contributions from StackOverflow
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "STACKOVERFLOW"
+          feed_list: "https://stackoverflow.com/feeds/user/2518022/"
