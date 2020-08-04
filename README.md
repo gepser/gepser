@@ -28,6 +28,13 @@
 
 ---
 
+### 🥞 Latest DevOps StackExchange contributions
+
+<!-- DEVOPS:START -->
+<!-- DEVOPS:END -->
+
+---
+
 ### 🥞 Latest Spanish StackOverflow contributions
 <!-- SPANISH-STACKOVERFLOW:START -->
 - [Respuesta de Gepser en ¿Cómo restar valores de dos consultas diferentes?](https://es.stackoverflow.com/questions/258763/c%c3%b3mo-restar-valores-de-dos-consultas-diferentes/258768#258768)
