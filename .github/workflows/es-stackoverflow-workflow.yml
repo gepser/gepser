@@ -1,0 +1,17 @@
+name: Latest Spanish StackOverflow Contributions
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-es-stackoverflow:
+    name: Update this repo's README with latest contributions from Spanish StackOverflow
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "SPANISH-STACKOVERFLOW"
+          feed_list: "https://es.stackoverflow.com/feeds/user/399"
