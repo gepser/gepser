@@ -25,3 +25,9 @@
 - [Answer by Gepser for Gocode tool error](https://stackoverflow.com/questions/40967859/gocode-tool-error/40968445#40968445)
 - [Get last page http request golang](https://stackoverflow.com/questions/36636634/get-last-page-http-request-golang)
 <!-- STACKOVERFLOW:END -->
+
+---
+
+### 🥞 Latest Spanish StackOverflow contributions
+<!-- SPANISH-STACKOVERFLOW:START -->
+<!-- SPANISH-STACKOVERFLOW:END -->
