@@ -15,3 +15,4 @@ jobs:
         with:
           comment_tag_name: "DEVOPS"
           feed_list: "https://devops.stackexchange.com/feeds/user/15"
+          max_post_count: 3
