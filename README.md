@@ -14,6 +14,22 @@
 
 <br />
 
+### Languages and Tools:
+
+[<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />][twitter]
+[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][twitter]
+[<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />][twitter]
+[<img align="left" alt="Puppet" width="26px" src="https://d33wubrfki0l68.cloudfront.net/879b618f43e80e82627164cb764f0b095b5b266c/d2c97/images/logos/puppet-logo-black.svg" />][twitter]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][twitter]
+[<img align="left" alt="GCP" width="26px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--I1em0fO7--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/190129/feb4acd3-06b1-42c5-93f5-02004e4a28a1.png" />][twitter]
+[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />][twitter]
+[<img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />][twitter]
+[<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />][twitter]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][twitter]
+
+
+<br />
+
 ---
 
 ### 🥞 Latest StackOverflow contributions
