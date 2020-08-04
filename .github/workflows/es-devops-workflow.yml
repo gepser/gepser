@@ -1,0 +1,17 @@
+name: Latest Devops StackExchange Contributions
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-devops:
+    name: Update this repo's README with latest contributions from DevOps StackExchange
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "DEVOPS"
+          feed_list: "https://devops.stackexchange.com/feeds/user/15"
