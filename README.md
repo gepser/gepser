@@ -1,6 +1,11 @@
-### Hi there, I'm Gepser 👋
+## Hi there, I'm Gepser 👋
 
-## I'm an Engineer interested in Infrastructure, Backend, Security and Leadership!
+### I'm an Engineer interested in Infrastructure, Backend, and Leadership!
+- 🦾 I’m currently working at [Beek][beek] and [Una Fiesta Bonita][unafiestabonita]!
+- 🌱 I’m currently learning UX
+- 🗺 I like to travel
+- ♟ I like to play Chess
+- 🏯 Fun fact: I am learning Japanese
 
 ### Connect with me:
 
@@ -11,6 +16,8 @@
 [hey]: mailto:gepser@hey.com
 [linkedin]: https://linkedin.com/in/gepser
 [twitter]: https://twitter.com/gepser
+[beek]: https://www.beek.io
+[unafiestabonita]: https://www.unafiestabonita.com
 
 <br />
 
