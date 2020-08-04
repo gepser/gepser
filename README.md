@@ -12,6 +12,10 @@
 [linkedin]: https://linkedin.com/in/gepser
 [twitter]: https://twitter.com/gepser
 
+<br />
+
+---
+
 ### 🥞 Latest StackOverflow contributions
 
 <!-- STACKOVERFLOW:START -->
