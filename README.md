@@ -1,6 +1,6 @@
 ## Hi there, I'm Gepser 👋
 
-### I'm an Engineer interested in Infrastructure, Backend, and Leadership!
+### I'm an Engineer interested in Infrastructure, and Backend!
 - 🦾 I’m currently working at [Beek][beek] and [Una Fiesta Bonita][unafiestabonita]!
 - 🌱 I’m currently learning UX
 - 🗺 I like to travel
