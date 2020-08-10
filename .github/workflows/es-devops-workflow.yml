@@ -13,6 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          filter_comments: "stackexchange/Comment by $author/"
           comment_tag_name: "DEVOPS"
           feed_list: "https://devops.stackexchange.com/feeds/user/15"
           max_post_count: 3
