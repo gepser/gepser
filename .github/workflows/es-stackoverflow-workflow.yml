@@ -13,6 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          filter_comments: "stackoverflow/Comentario de $author/"
           comment_tag_name: "SPANISH-STACKOVERFLOW"
           feed_list: "https://es.stackoverflow.com/feeds/user/399"
           max_post_count: 3
