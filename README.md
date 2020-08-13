@@ -42,9 +42,9 @@
 ### 🥞 Latest StackOverflow contributions
 
 <!-- STACKOVERFLOW:START -->
+- ["No such file or directory" on Google Cloud Function using Go 1.13](https://stackoverflow.com/questions/63385920/no-such-file-or-directory-on-google-cloud-function-using-go-1-13)
 - [Answer by Gepser for What is build cache in `docker system df`](https://stackoverflow.com/questions/55030095/what-is-build-cache-in-docker-system-df/55033482#55033482)
 - [Answer by Gepser for How to pull a file from Github to a Digital Ocean droplet](https://stackoverflow.com/questions/46637314/how-to-pull-a-file-from-github-to-a-digital-ocean-droplet/46637374#46637374)
-- [Answer by Gepser for strategy for REST API in go](https://stackoverflow.com/questions/41061042/strategy-for-rest-api-in-go/41062492#41062492)
 <!-- STACKOVERFLOW:END -->
 
 ---
