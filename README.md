@@ -59,7 +59,7 @@
 
 ---
 
-### ![Stack Overflow Spanish reputation](https://img.shields.io/stackexchange/stackoverflow/r/2518022?label=SO&logo=stackoverflow&logoColor=yellow) Latest Spanish StackOverflow contributions
+### ![Stack Overflow Spanish reputation](https://img.shields.io/stackexchange/es.stackoverflow/r/399?label=es.SO&logo=stackoverflow&logoColor=yellow) Latest Spanish StackOverflow contributions
 <!-- SPANISH-STACKOVERFLOW:START -->
 - [Respuesta de Gepser en ¿Cómo restar valores de dos consultas diferentes?](https://es.stackoverflow.com/questions/258763/c%c3%b3mo-restar-valores-de-dos-consultas-diferentes/258768#258768)
 - [¿Por qué no se imprime 'a' o 'b'?](https://es.stackoverflow.com/questions/68805/por-qu%c3%a9-no-se-imprime-a-o-b)
