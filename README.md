@@ -40,7 +40,7 @@
 
 ---
 
-### ![Stack Overflow reputation](https://img.shields.io/stackexchange/stackoverflow/r/2518022?label=SO&logo=stackoverflow) Latest StackOverflow contributions
+### 🥞 Latest StackOverflow contributions
 
 <!-- STACKOVERFLOW:START -->
 - [Answer by Gepser for "No such file or directory" on Google Cloud Function using Go 1.13](https://stackoverflow.com/questions/63385920/no-such-file-or-directory-on-google-cloud-function-using-go-1-13/63388292#63388292)
@@ -50,7 +50,7 @@
 
 ---
 
-### ![Stack Exchange reputation](https://img.shields.io/stackexchange/devops/r/15?label=Devops&logo=stackexchange) Latest DevOps StackExchange contributions
+### 🥞 Latest DevOps StackExchange contributions
 
 <!-- DEVOPS:START -->
 - [Answer by Gepser for Health monitoring of web pages without using GET check](https://devops.stackexchange.com/questions/4263/health-monitoring-of-web-pages-without-using-get-check/4266#4266)
@@ -60,7 +60,7 @@
 
 ---
 
-### ![Stack Overflow Spanish reputation](https://img.shields.io/stackexchange/es.stackoverflow/r/399?label=es.SO&logo=stackoverflow&logoColor=yellow) Latest Spanish StackOverflow contributions
+### 🥞 Latest Spanish StackOverflow contributions
 <!-- SPANISH-STACKOVERFLOW:START -->
 - [Respuesta de Gepser en ¿Cómo restar valores de dos consultas diferentes?](https://es.stackoverflow.com/questions/258763/c%c3%b3mo-restar-valores-de-dos-consultas-diferentes/258768#258768)
 - [¿Por qué no se imprime 'a' o 'b'?](https://es.stackoverflow.com/questions/68805/por-qu%c3%a9-no-se-imprime-a-o-b)
