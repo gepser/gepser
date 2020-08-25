@@ -1,10 +1,11 @@
 ## Hi there, I'm Gepser 👋
 
 ### I'm an Infrastructure Engineer!
-- 🦾 I’m currently working at [Beek][beek] and [Una Fiesta Bonita][unafiestabonita]!
+- 🦾 I’m currently working at [Beek][beek]
 - 🗺 I like to travel
 - ♟ I like to play Chess
-- 🙌🏼 I've also worked as a Backend Engineer and CTO
+- 👀 Ask me about my side projects
+- 🙌🏼 I've also worked as a CTO and Software Engineer
 - 🏯 Fun fact: I am learning Japanese and German
 
 ### Connect with me:
@@ -17,7 +18,6 @@
 [linkedin]: https://linkedin.com/in/gepser
 [twitter]: https://twitter.com/gepser
 [beek]: https://www.beek.io
-[unafiestabonita]: https://www.unafiestabonita.com
 
 <br />
 
