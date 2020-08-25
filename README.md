@@ -50,7 +50,7 @@
 
 ---
 
-### ![Stack Exchange reputation](https://img.shields.io/stackexchange/devops.stackexchange/r/15?label=Devops&logo=stackexchange) Latest DevOps StackExchange contributions
+### ![Stack Exchange reputation](https://img.shields.io/stackexchange/devops/r/15?label=Devops&logo=stackexchange) Latest DevOps StackExchange contributions
 
 <!-- DEVOPS:START -->
 - [Answer by Gepser for Health monitoring of web pages without using GET check](https://devops.stackexchange.com/questions/4263/health-monitoring-of-web-pages-without-using-get-check/4266#4266)
