@@ -1,11 +1,11 @@
 ## Hi there, I'm Gepser 👋
 
-### I'm an Engineer interested in Infrastructure and Backend!
+### I'm an Infrastructure Engineer!
 - 🦾 I’m currently working at [Beek][beek] and [Una Fiesta Bonita][unafiestabonita]!
-- 🌱 I’m currently learning UX
 - 🗺 I like to travel
 - ♟ I like to play Chess
-- 🏯 Fun fact: I am learning Japanese
+- 🙌🏼 I've also worked as a Backend Engineer and CTO
+- 🏯 Fun fact: I am learning Japanese and German
 
 ### Connect with me:
 
