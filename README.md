@@ -1,12 +1,12 @@
 ## Hi there, I'm Gepser 👋
 
-### I'm an Infrastructure Engineer!
-- 🦾 I’m currently working at [Beek][beek]
+### I'm an Engineer Manager with experience in Infrastructure and Backend!
+- 🦾 My past jobs include [Beek][beek] and [PayPal][paypal]
 - 🗺 I like to travel
 - ♟ I like to play Chess
 - 👀 Ask me about my side projects
-- 🙌🏼 I've also worked as a CTO and Software Engineer
-- 🏯 Fun fact: I am learning Japanese and German
+- 🙌🏼 I've also worked as a CTO, Infrastructure and Software Engineer
+- 🏯 Fun fact: I am learning German and Japanese
 
 ### Connect with me:
 
@@ -18,6 +18,7 @@
 [linkedin]: https://linkedin.com/in/gepser
 [twitter]: https://twitter.com/gepser
 [beek]: https://www.beek.io
+[paypal]: https://www.paypal.com
 
 <br />
 
