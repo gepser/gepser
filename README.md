@@ -1,12 +1,12 @@
 ## Hi there, I'm Gepser 👋
 
-### I'm an Engineer Manager with experience in Infrastructure and Backend!
-- 🦾 My past jobs include [Beek][beek] and [PayPal][paypal]
+### I'm an Engineering Manager with experience in Infrastructure and Backend!
+- 🦾 I work at [Homeday][homeday] and my past jobs include [Beek][beek] and [PayPal][paypal]
 - 🗺 I like to travel
 - ♟ I like to play Chess
 - 👀 Ask me about my side projects
 - 🙌🏼 I've also worked as a CTO, Infrastructure and Software Engineer
-- 🏯 Fun fact: I am learning German and Japanese
+- 🏯 Fun fact: I am reading [Empowered][empowered], and I want to improve in management.
 
 ### Connect with me:
 
@@ -19,6 +19,8 @@
 [twitter]: https://twitter.com/gepser
 [beek]: https://www.beek.io
 [paypal]: https://www.paypal.com
+[homeday]: https://www.homeday.de
+[empowered]: https://www.goodreads.com/book/show/53481975-empowered
 
 <br />
 
