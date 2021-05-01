@@ -10,9 +10,11 @@
 
 ### Connect with me:
 
+[<img align="left" alt="Email | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 [<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
+[email]: mailto:github@gepser.com
 [linkedin]: https://linkedin.com/in/gepser
 [twitter]: https://twitter.com/gepser
 [beek]: https://www.beek.io
