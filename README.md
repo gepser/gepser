@@ -65,7 +65,7 @@
 
 ### 🥞 Latest Spanish StackOverflow contributions
 <!-- SPANISH-STACKOVERFLOW:START -->
-- [Respuesta de Gepser en ¿Cómo restar valores de dos consultas diferentes?](https://es.stackoverflow.com/questions/258763/c%c3%b3mo-restar-valores-de-dos-consultas-diferentes/258768#258768)
+- [Respuesta de Gepser - en ¿Cómo restar valores de dos consultas diferentes?](https://es.stackoverflow.com/questions/258763/c%c3%b3mo-restar-valores-de-dos-consultas-diferentes/258768#258768)
 - [¿Por qué no se imprime 'a' o 'b'?](https://es.stackoverflow.com/questions/68805/por-qu%c3%a9-no-se-imprime-a-o-b)
 - [Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock](https://es.stackoverflow.com/questions/53554/cant-connect-to-local-mysql-server-through-socket-var-run-mysqld-mysqld-sock)
 <!-- SPANISH-STACKOVERFLOW:END -->
