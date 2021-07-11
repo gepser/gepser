@@ -28,3 +28,8 @@ jobs:
           comment_tag_name: "SPANISH-STACKOVERFLOW"
           feed_list: "https://es.stackoverflow.com/feeds/user/399"
           max_post_count: 3
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BLOG-POSTS"
+          feed_list: "https://www.gepser.com/rss/"
+          max_post_count: 3
