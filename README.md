@@ -74,4 +74,7 @@
 
 ### 🥞 Latest Blog Posts
 <!-- BLOG-POSTS:START -->
+- [About Talent Reshuffling](https://www.gepser.com/talent-reshuffling/)
+- [A simple meal for myself](https://www.gepser.com/a-simple-meal-for-myself/)
+- [Solving the classic "aaaabbbcca" coding challenge](https://www.gepser.com/solving-the-clasic-coding-challenge/)
 <!-- BLOG-POSTS:END -->
