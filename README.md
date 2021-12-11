@@ -6,7 +6,7 @@
 - ♟ I like to play Chess
 - 👀 Ask me about my side projects
 - 🙌🏼 I've also worked as a CTO, Infrastructure and Software Engineer
-- 🏯 Fun fact: I am reading [Empowered][empowered], and I want to improve in management.
+- 🏯 Curious about what I am reading now? [Check it out here.][goodreads]
 
 ### Connect with me:
 
@@ -20,7 +20,7 @@
 [beek]: https://www.beek.io
 [paypal]: https://www.paypal.com
 [homeday]: https://www.homeday.de
-[empowered]: https://www.goodreads.com/book/show/53481975-empowered
+[goodreads]: https://www.goodreads.com/user/show/54539923-gepser-hoil
 
 <br />
 
