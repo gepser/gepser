@@ -27,17 +27,16 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Kubernetes" width="26px" src="https://simpleicons.org/icons/kubernetes.svg" />][twitter]
-[<img align="left" alt="Docker" width="26px" src="https://simpleicons.org/icons/docker.svg" />][twitter]
-[<img align="left" alt="Terraform" width="26px" src="https://simpleicons.org/icons/terraform.svg" />][twitter]
-[<img align="left" alt="Puppet" width="26px" src="https://simpleicons.org/icons/puppet.svg" />][twitter]
-[<img align="left" alt="MySQL" width="26px" src="https://simpleicons.org/icons/mysql.svg" />][twitter]
-[<img align="left" alt="PostgreSQL" width="26px" src="https://simpleicons.org/icons/postgresql.svg" />][twitter]
-[<img align="left" alt="GCP" width="26px" src="https://simpleicons.org/icons/googlecloud.svg" />][twitter]
-[<img align="left" alt="AWS" width="26px" src="https://simpleicons.org/icons/amazonaws.svg" />][twitter]
-[<img align="left" alt="Ruby" width="26px" src="https://simpleicons.org/icons/ruby.svg" />][twitter]
-[<img align="left" alt="Go" width="26px" src="https://simpleicons.org/icons/go.svg" />][twitter]
-[<img align="left" alt="JavaScript" width="26px" src="https://simpleicons.org/icons/javascript.svg" />][twitter]
+[<img align="left" alt="Kubernetes" width="26px" src="https://img.icons8.com/color/344/kubernetes.png" />][twitter]
+[<img align="left" alt="Docker" width="26px" src="https://img.icons8.com/fluency/344/docker.png" />][twitter]
+[<img align="left" alt="Terraform" width="26px" src="https://img.icons8.com/color/344/terraform.png" />][twitter]
+[<img align="left" alt="Ruby" width="26px" src="https://img.icons8.com/fluency/344/ruby-programming-language.png" />][twitter]
+[<img align="left" alt="Go" width="26px" src="https://img.icons8.com/color/344/golang.png" />][twitter]
+[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/344/javascript--v1.png" />][twitter]
+[<img align="left" alt="GCP" width="26px" src="https://img.icons8.com/color/344/google-cloud.png" />][twitter]
+[<img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/344/amazon-web-services.png" />][twitter]
+[<img align="left" alt="PostgreSQL" width="26px" src="https://img.icons8.com/color/344/postgreesql.png" />][twitter]
+[<img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/color/344/mysql-logo.png" />][twitter]
 
 
 <br />
