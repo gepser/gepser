@@ -72,7 +72,7 @@
 
 ---
 
-### 🥞 Latest Blog Posts
+### 🥞 Latest Blog Posts (in Spanish)
 <!-- BLOG-POSTS:START -->
 - [¿Quién es Gepser?](https://www.gepser.com/me/)
 - [¿Qué es el Technical Debt?](https://www.gepser.com/que-es-el-technical-debt/)
