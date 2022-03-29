@@ -10,6 +10,8 @@ Personally, I like traveling, playing chess, cooking, and reading (curious about
 
 I've lived in Guatemala 🇬🇹, Mexico 🇲🇽, Panama 🇵🇦 (for a short time), and more recently I'm moving to Germany 🇩🇪.
 
+I speak English 🇺🇸 and Spanish 🇪🇸 but I'm also learning German 🇩🇪 and Japanesse 🇯🇵.
+
 ### Connect with me:
 
 [![Twitter](https://img.shields.io/badge/Twitter-%40gepser-1d9bf0.svg)][twitter]
