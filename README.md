@@ -1,18 +1,21 @@
 ## Hi there, I'm Gepser 👋
 
-### I'm an Engineering Manager with experience in Infrastructure and Backend!
-- 🦾 I work at [Homeday][homeday] and my past jobs include [Beek][beek] and [PayPal][paypal]
-- 🗺 I like to travel
-- ♟ I like to play Chess
-- 👀 Ask me about my side projects
-- 🙌🏼 I've also worked as a CTO, Infrastructure and Software Engineer
-- 🏯 Curious about what I am reading now? [Check it out here.][goodreads]
+### I'm an Engineering Manager at [Homeday][homeday] with experience in Infrastructure and Backend.
+
+I practice the [Servant Leadership][servant] and I try to lead with empathy.
+
+I am a life long learner and I like to do a little bit of everything, that's why my past jobs include CTO at [Beek][beek] and Infrastructure & Backend Engineer at [PayPal][paypal] (not at the same time).
+
+Personally, I like traveling, playing chess, cooking, and reading (curious about what I am reading now? [Check it out here.][goodreads]).
+
+I've lived in Guatemala 🇬🇹, Mexico 🇲🇽, Panama 🇵🇦 (for a short time), and more recently I'm moving to Germany 🇩🇪.
 
 ### Connect with me:
 
-[![Email](https://img.shields.io/badge/email-github%40gepser.com-blue)][email]
-[![LinkedIn](https://img.shields.io/badge/Linked-gepser-0c66c3.svg)][linkedin]
 [![Twitter](https://img.shields.io/badge/Twitter-%40gepser-1d9bf0.svg)][twitter]
+[![LinkedIn](https://img.shields.io/badge/Linked-gepser-0c66c3.svg)][linkedin]
+[![Email](https://img.shields.io/badge/email-github%40gepser.com-blue)][email]
+
 
 
 [email]: mailto:github@gepser.com
@@ -22,6 +25,7 @@
 [paypal]: https://www.paypal.com
 [homeday]: https://www.homeday.de
 [goodreads]: https://www.goodreads.com/user/show/54539923-gepser-hoil
+[servant]: https://en.wikipedia.org/wiki/Servant_leadership
 
 <br />
 
