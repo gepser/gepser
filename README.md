@@ -14,10 +14,10 @@ Personally, I like:
 
 I've lived in:
 
-- 🇬🇹 Guatemala
-- 🇲🇽 Mexico
-- 🇵🇦 Panama (for a short time)
-- 🇩🇪 and more recently I'm moving to Germany
+- 🇬🇹 [Guatemala][guatemala]
+- 🇲🇽 [Mexico][mexico]
+- 🇵🇦 [Panama][panama] (for a short time)
+- 🇩🇪 and more recently I'm moving to [Germany][germany]
 
 I speak:
 - 🇺🇸 English
@@ -43,6 +43,11 @@ And I'm also learning:
 [homeday]: https://www.homeday.de
 [goodreads]: https://www.goodreads.com/user/show/54539923-gepser-hoil
 [servant]: https://en.wikipedia.org/wiki/Servant_leadership
+[guatemala]: https://en.wikipedia.org/wiki/Guatemala
+[mexico]: https://en.wikipedia.org/wiki/Mexico
+[panama]: https://en.wikipedia.org/wiki/Panama
+[germany]: https://en.wikipedia.org/wiki/Germany
+
 
 <br />
 
