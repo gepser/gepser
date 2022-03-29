@@ -10,7 +10,7 @@ Personally, I like:
 - 🗺 Traveling
 - ♞ Playing chess
 - 🥘 Cooking
-- 📖 Reading (curious about what I am reading now? [check it out here.][goodreads]).
+- 📖 Reading (curious about what I am reading now? [check it out here.][goodreads])
 
 I've lived in:
 
