@@ -1,16 +1,31 @@
 ## Hi there, I'm Gepser 👋
 
-### I'm an Engineering Manager at [Homeday][homeday] with experience in Infrastructure and Backend.
+### I'm an Engineering Manager at [Homeday][homeday].
 
 I practice the [Servant Leadership][servant] and I try to lead with empathy.
 
-I am a life long learner and I like to do a little bit of everything, that's why my past jobs include CTO at [Beek][beek] and Infrastructure & Backend Engineer at [PayPal][paypal] (not at the same time).
+I am a life long learner and I like to do a little bit of everything, that's why my past jobs include **CTO** at [Beek][beek] and **Infrastructure & Backend Engineer** at [PayPal][paypal] (not at the same time).
 
-Personally, I like traveling, playing chess, cooking, and reading (curious about what I am reading now? [Check it out here.][goodreads]).
+Personally, I like:
+- 🗺 Traveling
+- ♞ Playing chess
+- 🥘 Cooking
+- 📖 Reading (curious about what I am reading now? [check it out here.][goodreads]).
 
-I've lived in Guatemala 🇬🇹, Mexico 🇲🇽, Panama 🇵🇦 (for a short time), and more recently I'm moving to Germany 🇩🇪.
+I've lived in:
 
-I speak English 🇺🇸 and Spanish 🇪🇸 but I'm also learning German 🇩🇪 and Japanesse 🇯🇵.
+- 🇬🇹 Guatemala
+- 🇲🇽 Mexico
+- 🇵🇦 Panama (for a short time)
+- 🇩🇪 and more recently I'm moving to Germany
+
+I speak:
+- 🇺🇸 English
+- 🇪🇸 Spanish
+
+And I'm also learning:
+- 🇩🇪 German
+- 🇯🇵 Japanesse
 
 ### Connect with me:
 
