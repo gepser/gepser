@@ -72,9 +72,9 @@ And I'm also learning:
 ### 🥞 Latest StackOverflow contributions
 
 <!-- STACKOVERFLOW:START -->
-- [Answer by Gepser - for &quot;No such file or directory&quot; on Google Cloud Function using Go 1.13](https://stackoverflow.com/questions/63385920/no-such-file-or-directory-on-google-cloud-function-using-go-1-13/63388292#63388292)
+- [Answer by Gepser Hoil for &quot;No such file or directory&quot; on Google Cloud Function using Go 1.13](https://stackoverflow.com/questions/63385920/no-such-file-or-directory-on-google-cloud-function-using-go-1-13/63388292#63388292)
 - [&quot;No such file or directory&quot; on Google Cloud Function using Go 1.13](https://stackoverflow.com/questions/63385920/no-such-file-or-directory-on-google-cloud-function-using-go-1-13)
-- [Answer by Gepser - for What is build cache in `docker system df`](https://stackoverflow.com/questions/55030095/what-is-build-cache-in-docker-system-df/55033482#55033482)
+- [Answer by Gepser Hoil for What is build cache in `docker system df`](https://stackoverflow.com/questions/55030095/what-is-build-cache-in-docker-system-df/55033482#55033482)
 <!-- STACKOVERFLOW:END -->
 
 ---
