@@ -17,7 +17,7 @@ I've lived in:
 - 🇬🇹 [Guatemala][guatemala]
 - 🇲🇽 [Mexico][mexico]
 - 🇵🇦 [Panama][panama] (for a short time)
-- 🇩🇪 and more recently I'm moving to [Germany][germany]
+- 🇩🇪 and now I live in [Germany][germany]
 
 I speak:
 - 🇺🇸 English
