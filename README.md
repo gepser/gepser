@@ -4,20 +4,15 @@
 
 I practice the [Servant Leadership][servant] and I try to lead with empathy.
 
-I am a life long learner and I like to do a little bit of everything, that's why my past jobs include **CTO** at [Beek][beek] and **Infrastructure & Backend Engineer** at [PayPal][paypal] (not at the same time).
+I am a life long learner and I like to do a little bit of everything, that's why my past jobs include **CTO** at [Beek][beek] and **Infrastructure Engineer** at [PayPal][paypal] and **Backend Engineer** also at [PayPal][paypal].
 
 Personally, I like:
-- 🗺 Traveling
+- 🗺 Traveling ( 🇩🇪 🇵🇱 🇵🇦 🇲🇽 🇫🇷 🇺🇸 🇬🇹 🇸🇻 🇳🇮 🇨🇷 )
 - ♞ Playing chess
 - 🥘 Cooking
 - 📖 Reading (curious about what I am reading now? [check it out here][goodreads])
 
-I've lived in:
-
-- 🇬🇹 [Guatemala][guatemala]
-- 🇲🇽 [Mexico][mexico]
-- 🇵🇦 [Panama][panama] (for a short time)
-- 🇩🇪 and now I live in [Germany][germany]
+I've live in 🇩🇪 Germany.
 
 I speak:
 - 🇺🇸 English
@@ -33,8 +28,6 @@ And I'm also learning:
 [![LinkedIn](https://img.shields.io/badge/Linked-gepser-0c66c3.svg)][linkedin]
 [![Email](https://img.shields.io/badge/email-github%40gepser.com-blue)][email]
 
-
-
 [email]: mailto:github@gepser.com
 [linkedin]: https://linkedin.com/in/gepser
 [twitter]: https://twitter.com/gepser
@@ -43,11 +36,6 @@ And I'm also learning:
 [homeday]: https://www.homeday.de
 [goodreads]: https://www.goodreads.com/user/show/54539923-gepser-hoil
 [servant]: https://en.wikipedia.org/wiki/Servant_leadership
-[guatemala]: https://en.wikipedia.org/wiki/Guatemala
-[mexico]: https://en.wikipedia.org/wiki/Mexico
-[panama]: https://en.wikipedia.org/wiki/Panama
-[germany]: https://en.wikipedia.org/wiki/Germany
-
 
 <br />
 
