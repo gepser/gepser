@@ -83,12 +83,3 @@ And I'm also learning:
 - [¿Por qué no se imprime &#39;a&#39; o &#39;b&#39;?](https://es.stackoverflow.com/questions/68805/por-qu%c3%a9-no-se-imprime-a-o-b)
 - [Can&#39;t connect to local MySQL server through socket &#39;/var/run/mysqld/mysqld.sock](https://es.stackoverflow.com/questions/53554/cant-connect-to-local-mysql-server-through-socket-var-run-mysqld-mysqld-sock)
 <!-- SPANISH-STACKOVERFLOW:END -->
-
----
-
-### 🥞 Latest Blog Posts (in Spanish)
-<!-- BLOG-POSTS:START -->
-- [¿Quién es Gepser?](https://www.gepser.com/me/)
-- [¿Qué es el Technical Debt?](https://www.gepser.com/que-es-el-technical-debt/)
-- [Hola Mundo](https://www.gepser.com/hola-mundo/)
-<!-- BLOG-POSTS:END -->
