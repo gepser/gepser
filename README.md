@@ -7,7 +7,7 @@ I practice the [Servant Leadership][servant] and I try to lead with empathy.
 I am a life long learner and I like to do a little bit of everything, that's why my past jobs include **CTO** at [Beek][beek] and **Infrastructure Engineer** at [PayPal][paypal] and **Backend Engineer** also at [PayPal][paypal].
 
 Personally, I like:
-- 🗺 Traveling ( 🇩🇪 🇵🇱 🇵🇦 🇲🇽 🇫🇷 🇺🇸 🇬🇹 🇸🇻 🇳🇮 🇨🇷 )
+- 🗺 Traveling ( 🇩🇪 🇳🇱 🇵🇦 🇲🇽 🇫🇷 🇺🇸 🇬🇹 🇸🇻 🇳🇮 🇨🇷 )
 - ♞ Playing chess
 - 🥘 Cooking
 - 📖 Reading (curious about what I am reading now? [check it out here][goodreads])
