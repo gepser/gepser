@@ -21,13 +21,11 @@ And I'm also learning:
 
 ### Connect with me:
 
-[![Twitter](https://img.shields.io/badge/Twitter-%40gepser-1d9bf0.svg)][twitter]
 [![LinkedIn](https://img.shields.io/badge/Linked-gepser-0c66c3.svg)][linkedin]
 [![Email](https://img.shields.io/badge/email-github%40gepser.com-blue)][email]
 
 [email]: mailto:github@gepser.com
 [linkedin]: https://linkedin.com/in/gepser
-[twitter]: https://twitter.com/gepser
 [beek]: https://www.beek.io
 [paypal]: https://www.paypal.com
 [homeday]: https://www.homeday.de
@@ -38,16 +36,16 @@ And I'm also learning:
 
 ### Languages and Tools:
 
-[<img align="left" alt="Kubernetes" width="26px" src="https://img.icons8.com/color/344/kubernetes.png" />][twitter]
-[<img align="left" alt="Docker" width="26px" src="https://img.icons8.com/fluency/344/docker.png" />][twitter]
-[<img align="left" alt="Terraform" width="26px" src="https://img.icons8.com/color/344/terraform.png" />][twitter]
-[<img align="left" alt="Ruby" width="26px" src="https://img.icons8.com/fluency/344/ruby-programming-language.png" />][twitter]
-[<img align="left" alt="Go" width="26px" src="https://img.icons8.com/color/344/golang.png" />][twitter]
-[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/344/javascript--v1.png" />][twitter]
-[<img align="left" alt="GCP" width="26px" src="https://img.icons8.com/color/344/google-cloud.png" />][twitter]
-[<img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/344/amazon-web-services.png" />][twitter]
-[<img align="left" alt="PostgreSQL" width="26px" src="https://img.icons8.com/color/344/postgreesql.png" />][twitter]
-[<img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/color/344/mysql-logo.png" />][twitter]
+[<img align="left" alt="Kubernetes" width="26px" src="https://img.icons8.com/color/344/kubernetes.png" />][linkedin]
+[<img align="left" alt="Docker" width="26px" src="https://img.icons8.com/fluency/344/docker.png" />][linkedin]
+[<img align="left" alt="Terraform" width="26px" src="https://img.icons8.com/color/344/terraform.png" />][linkedin]
+[<img align="left" alt="Ruby" width="26px" src="https://img.icons8.com/fluency/344/ruby-programming-language.png" />][linkedin]
+[<img align="left" alt="Go" width="26px" src="https://img.icons8.com/color/344/golang.png" />][linkedin]
+[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/344/javascript--v1.png" />][linkedin]
+[<img align="left" alt="GCP" width="26px" src="https://img.icons8.com/color/344/google-cloud.png" />][linkedin]
+[<img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/344/amazon-web-services.png" />][linkedin]
+[<img align="left" alt="PostgreSQL" width="26px" src="https://img.icons8.com/color/344/postgreesql.png" />][linkedin]
+[<img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/color/344/mysql-logo.png" />][linkedin]
 
 
 <br />
