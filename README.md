@@ -1,6 +1,6 @@
 ## Hi there, I'm Gepser 👋
 
-### I'm an Engineering Manager at [Homeday][homeday].
+### I'm a Software Engineer. I'm the mix of Backend, Infrastructure, and Leadership.
 
 I practice the [Servant Leadership][servant], and I try to lead with empathy.
 
@@ -28,7 +28,6 @@ And I'm also learning:
 [linkedin]: https://linkedin.com/in/gepser
 [beek]: https://www.beek.io
 [paypal]: https://www.paypal.com
-[homeday]: https://www.homeday.de
 [goodreads]: https://www.goodreads.com/user/show/54539923-gepser-hoil
 [servant]: https://en.wikipedia.org/wiki/Servant_leadership
 
