@@ -51,6 +51,9 @@ And I'm also learning:
 
 ---
 
+> [!NOTE]
+> This section was when the whole Stack Exchange was cool, before AI.
+
 ### 🥞 Latest StackOverflow contributions
 
 <!-- STACKOVERFLOW:START -->
