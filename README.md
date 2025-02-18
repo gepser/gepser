@@ -1,6 +1,6 @@
 ## Hi there, I'm Gepser 👋
 
-### I'm a Software Engineer. I'm the mix of Backend, Infrastructure, and Leadership.
+### I'm the mix of Infrastructure, Backend, and Leadership. Software Engineer for short.
 
 I practice the [Servant Leadership][servant], and I try to lead with empathy.
 
