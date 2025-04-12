@@ -67,9 +67,9 @@ And I'm also learning:
 ### 🥞 Latest DevOps StackExchange contributions
 
 <!-- DEVOPS:START -->
+- [Comment by Gepser Hoil on Health monitoring of web pages without using GET check](https://devops.stackexchange.com/questions/4263/health-monitoring-of-web-pages-without-using-get-check/4266#4266)
 - [Answer by Gepser Hoil for Health monitoring of web pages without using GET check](https://devops.stackexchange.com/questions/4263/health-monitoring-of-web-pages-without-using-get-check/4266#4266)
-- [Answer by Gepser Hoil for How can I become a DevOps Engineer?](https://devops.stackexchange.com/questions/3884/how-can-i-become-a-devops-engineer/3885#3885)
-- [Answer by Gepser Hoil for How to upgrade job-dsl files to Jenkins 2 pipelines?](https://devops.stackexchange.com/questions/104/how-to-upgrade-job-dsl-files-to-jenkins-2-pipelines/107#107)
+- [Comment by Gepser Hoil on How can I become a DevOps Engineer?](https://devops.stackexchange.com/questions/3884/how-can-i-become-a-devops-engineer/3885#3885)
 <!-- DEVOPS:END -->
 
 ---
