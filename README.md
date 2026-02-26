@@ -6,6 +6,8 @@ I practice the [Servant Leadership][servant], and I try to lead with empathy.
 
 I am a lifelong learner, and I like to do some of everything. That's why my past jobs include **CTO** at [Beek][beek] and **Infrastructure Engineer** at [PayPal][Paypal], and **Backend Engineer** also at [PayPal][paypal].
 
+Lately I've been learning a lot about AI, things like OpenClaw, Claude Code, testing every new powerful model the second that arrives, also going deep into the concepts, like how to build and train my own LLM, what's the transformer architecture, and more.
+
 I like:
 - 🏃🏼‍♂️‍➡️ Running long distances (2x Marathon 🥇, 2x Half Marathon 🥈, 1x 5k 🎖️)
 - 🗺 Traveling ( 🇭🇺 🇵🇱 🇨🇿 🇩🇪 🇳🇱 🇵🇦 🇲🇽 🇫🇷 🇺🇸 🇬🇹 🇸🇻 🇳🇮 🇨🇷)
